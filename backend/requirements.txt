@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+torch
+scikit-learn
+redis
+langchain
+celery
+aiohttp
